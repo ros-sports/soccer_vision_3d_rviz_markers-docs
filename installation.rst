@@ -7,8 +7,8 @@ Installation
 
 To install the packages, do one of the following:
 
-* a `Binary Installation`_
-* a `Source Installation`_
+* `Binary Installation`_
+* `Source Installation`_
 
 Binary Installation
 *******************
