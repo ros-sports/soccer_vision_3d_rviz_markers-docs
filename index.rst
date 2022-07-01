@@ -6,7 +6,7 @@
 Soccer Vision 3D RViz Markers
 =============================
 
-Soccer Vision 3D RViz Markers is a ROS2 package that converts Soccer Vision 3D Msgs to RViz Markers to help visualize the data.
+Soccer Vision 3D RViz Markers is a ROS 2 package that converts Soccer Vision 3D Msgs to RViz Markers to help visualize the data.
 
 The project is hosted on `Github`_ by ROS Sports.
 
