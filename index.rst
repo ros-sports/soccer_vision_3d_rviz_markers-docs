@@ -15,5 +15,6 @@ The project is hosted on `Github`_ by ROS Sports.
    :maxdepth: 2
 
    installation
+   topics
 
 .. _Github: https://github.com/ros-sports/soccer_vision_3d_rviz_markers
