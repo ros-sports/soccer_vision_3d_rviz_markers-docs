@@ -1,5 +1,5 @@
-Topics
-######
+Topics / Parameters
+###################
 
 List of topics used by the node.
 
@@ -26,13 +26,24 @@ Published Topics
 Parameters
 **********
 
+
+.. _ball_diameter:
+
 * **ball_diameter** (*float*, default="0.10")
 
   Diameter of the ball in meters.
 
+.. _marking_segment_width:
+
 * **marking_segment_width** (*float*, default="0.05")
 
   Width of a marking segment in meters.
+
+.. _field_boundary_line_width:
+
+* **field_boundary_line_width** (*float*, default="0.02")
+
+  Width of the field boundary line in meters.
 
 
 .. _soccer_vision_3d_msgs/msg/BallArray: https://github.com/ros-sports/soccer_interfaces/blob/rolling/soccer_vision_3d_msgs/msg/BallArray.msg
