@@ -87,6 +87,18 @@ Set up a publisher that publishes the robot array with one teammate and one oppo
       attributes:
         player_number: 3
         team: 2
+    - bb:
+        center:
+          position:
+            x: 0.0
+            y: -1.5
+            z: 0.4
+        size:
+          x: 0.4
+          y: 0.4
+          z: 0.8
+      attributes:
+        player_number: 4
   "
 
 Open RViz2 with a demo configuration:

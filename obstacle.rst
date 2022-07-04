@@ -4,7 +4,7 @@ Obstacle
 .. figure:: images/obstacle.png
   :align: center
 
-  Obstacles are visualized using a **white, cube** marker
+  Obstacles are visualized using a **black, cube** marker
 
 Properties
 **********
