@@ -1,9 +1,9 @@
 Installation
 ############
 
-.. note::
+.. warning::
 
-  Currently, the package is only available for ROS 2 Rolling, but will be included in ROS 2 I-onwards.
+  Package is currently only available for ROS 2 Rolling, but will be included in ROS 2 I-onwards.
 
 To install the packages, do one of the following:
 
