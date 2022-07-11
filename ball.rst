@@ -4,7 +4,7 @@ Ball
 .. figure:: images/ball.png
   :align: center
 
-  Balls are visualized using a **red, spherical** marker
+  Balls are visualized using a **black and white soccer ball** marker
 
 Properties
 **********
@@ -52,7 +52,7 @@ Open RViz2 with a demo configuration:
 
   rviz2 -d $(ros2 pkg prefix --share soccer_vision_3d_rviz_markers)/rviz/demo.rviz
 
-You should see a red ball with 50% transparency displayed in RViz:
+You should see a soccer ball with 50% transparency displayed in RViz:
 
 .. image:: images/ball_rviz.png
   :align: center
