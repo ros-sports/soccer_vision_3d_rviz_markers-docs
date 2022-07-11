@@ -20,6 +20,7 @@ The project is hosted on `Github`_ by ROS Sports.
    usage
    visualization
    topics_parameters
+   configs
 
 .. _Soccer Vision 3D Msgs: https://index.ros.org/p/soccer_vision_3d_msgs/
 .. _Github: https://github.com/ros-sports/soccer_vision_3d_rviz_markers

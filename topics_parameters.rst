@@ -26,7 +26,6 @@ Published Topics
 Parameters
 **********
 
-
 .. _ball_diameter:
 
 * **ball_diameter** (*float*, default="0.10")
